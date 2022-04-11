@@ -13,6 +13,6 @@ echo "Executing Python Script..."
 
 python3 ~/Code/Bash/solverAssist.py
 
-echo "Deleting Uneeded Text Files..."
+echo "Deleting Unneeded Text Files..."
 
 rm encodedAns.txt script.txt
