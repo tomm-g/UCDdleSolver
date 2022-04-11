@@ -1,4 +1,4 @@
-# Ver. 0.2 10/4/22
+# Ver. 0.3 11/4/22
 #
 # Python 3 program to solve UCDdle
 # from script file, answer can be retrieved in base64 encoded format
@@ -26,7 +26,7 @@ with open("script.txt", "r") as f:
 dataExtract = data[7]
 
 
-print(dataExtract[26]) # index of dataExtract[26] = "
+#print(dataExtract[26]) # index of dataExtract[26] = "
 
 with open("encodedAns.txt", "w") as f:
 	
