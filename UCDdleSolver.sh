@@ -11,7 +11,7 @@ echo "Script Converted to Text File!"
 
 echo "Executing Python Script..."
 
-python3 ~/Code/Bash/solverAssist.py
+python3 solverAssist.py
 
 echo "Deleting Unneeded Text Files..."
 
